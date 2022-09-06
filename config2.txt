@@ -1,0 +1,12 @@
+start_tag:start_tag
+usernameA:chris
+usernameB:Computer
+beginner:chris
+Autoset:false
+heapAmount:5
+heap1:20
+heap2:15
+heap3:8
+heap4:15
+heap5:3
+end_tag:end_tag
